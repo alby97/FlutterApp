@@ -1,2 +1,2 @@
-# youniproj
-YoUni Project
+# FlutterApp
+FlutterApp for students
