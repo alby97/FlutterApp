@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>853553631148-pajrnphqpen5gdvkcc44rgi319g2eqrl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.853553631148-pajrnphqpen5gdvkcc44rgi319g2eqrl</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>853553631148-pnmlfr3ggbmh9hh2604l9btok3sbtgra.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCFPxrm9qLrwPBVYUchpy1zy53lH21MDT0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>853553631148</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.youni.youniapp</string>
+	<key>PROJECT_ID</key>
+	<string>youni-f47e4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>youni-f47e4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:853553631148:ios:6bc1336495ef38caf87409</string>
+	<key>DATABASE_URL</key>
+	<string>https://youni-f47e4.firebaseio.com</string>
+</dict>
+</plist>

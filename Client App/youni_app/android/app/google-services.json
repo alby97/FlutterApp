@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "853553631148",
+    "firebase_url": "https://youni-f47e4.firebaseio.com",
+    "project_id": "youni-f47e4",
+    "storage_bucket": "youni-f47e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853553631148:android:a20c4e265597bc51f87409",
+        "android_client_info": {
+          "package_name": "com.youni.youniapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853553631148-u26ntcu2n71dqloqlg3nlgugr3d9ac9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFVgKljIE-LpCCdK0Wk9mzKqM9HETdG20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853553631148-u26ntcu2n71dqloqlg3nlgugr3d9ac9q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "853553631148-pajrnphqpen5gdvkcc44rgi319g2eqrl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.youni.youniapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

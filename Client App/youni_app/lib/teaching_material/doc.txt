@@ -1,0 +1,4 @@
+In questa cartella ci sono le schermate riguardanti il materiale didattico.
+La prima schermata (departments_screen) sarà quella della scelta dei dipartimenti.
+La seconda schermata (courses_of_study) sarà quella dei corsi di studi afferenti al dipartimento scelto.
+La terza schermata (show_files) mostrerà i file del corso di studi scelto.
